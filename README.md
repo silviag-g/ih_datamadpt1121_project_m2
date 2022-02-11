@@ -2,7 +2,7 @@
 
 # __ih_datamadpt1121_project_m2__
 
-![Image](https://github.com/ih-datapt-mad/ih_datamadpt1121_project_m1/tree/main/images/visuals.jpg)
+![Image](https://github.com/ih-datapt-mad/ih_datamadpt1121_project_m2/blob/main/images/visuals.jpg)
 
 Data analytics is oftentimes referred to as business intelligence, BI development, or product analytics. However, that is just the tip of the iceberg since the data analytics process includes activities such as data formation/creation, data cleansing, exploratory data analysis (especially this part), feature engineering, and interpretation of suggestions/predictions/results derived from advanced modelling analysis (i.e.: Machine Learning).
 
@@ -79,7 +79,7 @@ A BI Report/Dashboard is not exactly a sequential set of descriptive charts like
 
 ## **References:**
 
-- [Visual Analysis Best Practices](https://github.com/ih-datapt-mad/ih_datamadpt1121_project_m1/tree/main/images/visual-analysis-guidebook.pdf)
+- [Visual Analysis Best Practices](https://github.com/ih-datapt-mad/ih_datamadpt1121_project_m2/blob/main/images/visual-analysis-guidebook.pdf)
 
 - [Financial Times Visual Vocabulary](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary)
 

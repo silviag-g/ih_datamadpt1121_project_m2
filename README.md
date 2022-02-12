@@ -6,8 +6,12 @@
 
 Data analytics is oftentimes referred to as business intelligence, BI development, or product analytics. However, that is just the tip of the iceberg since the data analytics process includes activities such as data formation/creation, data cleansing, exploratory data analysis (especially this part), feature engineering, and interpretation of suggestions/predictions/results derived from advanced modelling analysis (i.e.: Machine Learning).
 
-For this project you will perform some of these activities in order to analyse the [__diamonds_m2.db__](https://github.com/ih-datapt-mad/ih_datamadpt1121_project_m2/blob/main/db/diamonds_m2.db) database. 
+For this project you will perform some of these activities in order to analyse the [__diamonds_m2.db__](https://github.com/ih-datapt-mad/ih_datamadpt1121_project_m2/blob/main/db/diamonds_m2.db) `SQLite` database.
 
+
+```
+conda install -c anaconda sqlite
+```
 
 
 ---
@@ -48,7 +52,7 @@ A GitHub repository including:
 
 ## __Challenge 1: Data Exploration and Preparation__
 
-The goal of this challenge is to perform an __exploratory analysis__ in order to gain initial insight on our diamonds database and prepare the __data model__ that better fits your visualizations. You may use any ETL tool from those explained in class (i.e.: Pandas, PowerQuery, Tableau Public).
+The goal of this challenge is to perform an __exploratory analysis__ in order to gain initial insight on our diamonds database and prepare the __data model__ that better fits your visualizations. You may use any ETL tool from those explained in class (i.e.: Pandas, PowerQuery, Tableau Public). 
 
 <p align="center"><img src="https://media.giphy.com/media/iP1qEUE7VKhLq/giphy.gif"></p>
 
@@ -79,6 +83,10 @@ A BI Report/Dashboard is not exactly a sequential set of descriptive charts like
 
 ## **References:**
 
+- [SQLite](https://www.sqlite.org/index.html)
+
+- [SQLAlchemy](https://docs.sqlalchemy.org/en/14/core/engines.html)
+
 - [Visual Analysis Best Practices](https://github.com/ih-datapt-mad/ih_datamadpt1121_project_m2/blob/main/images/visual-analysis-guidebook.pdf)
 
 - [Financial Times Visual Vocabulary](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary)
@@ -96,5 +104,3 @@ A BI Report/Dashboard is not exactly a sequential set of descriptive charts like
 - [Tableau](https://github.com/ih-datapt-mad/dataptmad1121_lessons/blob/main/module-2/visualization_tableau.md)
 
 - [Power BI](https://github.com/potacho/power_bi_workshop)
-
-
